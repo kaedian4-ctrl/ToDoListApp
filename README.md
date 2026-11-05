@@ -2,6 +2,10 @@
 
 A simple browser-based task manager built with HTML, CSS, and vanilla JavaScript. Add tasks, track what is complete, and filter the list to focus on all, active, or completed tasks.
 
+## Live Demo
+
+[Try the To-Do List App](https://kaedian4-ctrl.github.io/ToDoListApp/)
+
 ## Features
 
 - Add tasks using the input and Add button (or press Enter)
