@@ -168,3 +168,8 @@ body {
     background-color: #B9DCEB;
     color: #333;
 }
+
+button:focus-visible {
+    outline: 3px solid black;
+    outline-offset: 3px;
+}
