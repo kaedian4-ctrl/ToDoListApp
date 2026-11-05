@@ -22,7 +22,7 @@ A simple browser-based task manager built with HTML, CSS, and vanilla JavaScript
 
 ## Run locally
 
-Clone or download this repository, then open `TDLindex.html` in a web browser. No build tools or dependencies are required.
+Clone or download this repository, then open `index.html` in a web browser. No build tools or dependencies are required.
 
 Tasks are kept in the current page only and are cleared when the page is refreshed or closed.
 

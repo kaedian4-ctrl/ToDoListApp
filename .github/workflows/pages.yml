@@ -1,4 +1,4 @@
-name: Deploy calendar to GitHub Pages
+name: Deploy ToDoListApp to GitHub Pages
 
 on:
   push:
